@@ -1,0 +1,73 @@
+body{
+    background: linear-gradient(#517FF6, #253663);
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100vh;
+    margin: 0;
+    padding: 137px;
+    text-align: center;
+}
+
+h1{
+    font-family: "Jost";
+    color: white;
+    font-size: 40px;
+}
+
+h2{
+    font-family: "Jost";
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+}
+
+.other-button{
+    border-radius: 20px;
+    border: none;
+    height: 60px;
+    width: 180px;
+    background-color: #FFFFFF;
+}
+
+.add-button{
+    border-radius: 20px;
+    border: none;
+    padding: 13px 134px;
+    background-color: #FFFFFF;
+}
+
+.main-body{
+    background-color: rgba(255, 255, 255, 0.50);
+    padding: 50px;
+    border-radius: 30px;
+    text-align: center;
+}
+table{
+    border-spacing: 33px;
+    margin: auto;
+}
+
+
+th{
+    font-family: "Jost";
+    font-size: 24px;
+    font-weight: 400;
+    margin: 0;
+}
+
+td{
+    font-family: "Jost";
+    font-size: 16px;
+    font-weight: 400;
+    margin: 0;
+}
+
+
+.table-div{
+    background-color: #FFFFFF;
+    margin-top: 50px;
+    border-radius: 20px;
+}
+
+
+
